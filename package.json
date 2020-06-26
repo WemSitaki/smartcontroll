@@ -1,0 +1,19 @@
+{
+  "name": "smarthome",
+  "version": "1.0.0",
+  "description": "Smarthome controll server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WemSitaki/smartcontroll.git"
+  },
+  "author": "Miroslav Skala",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WemSitaki/smartcontroll/issues"
+  },
+  "homepage": "https://github.com/WemSitaki/smartcontroll#readme"
+}
